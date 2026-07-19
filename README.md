@@ -1,76 +1,37 @@
-# 🎓 Student Management System
+# Student Management System (Python)
 
-## 📌 Overview
+## Description
+Student Management System is a simple Python console application that helps manage student records. It allows users to add, view, search, and delete student information. The program also calculates total marks, average, and grade automatically.
 
-The Student Management System is a Python-based console application developed to manage student records. It allows users to add student details, calculate marks, assign grades, and display student information using functions and modular programming.
+## Features
+- Add Student
+- View Student Details
+- Search Student
+- Delete Student
+- Calculate Total Marks
+- Calculate Average Marks
+- Generate Grade
+- Menu-Driven Program
+- Uses Functions and Modules
+- User-Friendly Console Interface
 
----
-
-## ✨ Features
-
-- Add student details
-- Calculate total and average marks
-- Assign grades automatically
-- Display student information
-- Menu-driven program
-- Modular Python files
-- Easy to understand and use
-
----
-
-## 🛠️ Technology Stack
-
-- Python
+## Technologies Used
+- Python 3
 - VS Code
 
----
-
-## 📂 Project Structure
-
+## Project Structure
 - main.py
 - menu.py
 - add_student.py
 - calculate_marks.py
 - grade.py
+- display_student.py
+- search_student.py
+- delete_student.py
 
----
-
-## 📸 Output
-
-### Main Menu
-- Add Student
-- View Student
-- Search Student
-- Delete Student
-- Exit
-
-### Sample Output
-
-
-===== Student Management System =====
-
-1. Add Student
-2. View Student
-3. Search Student
-4. Delete Student
-5. Exit
-
-Enter your choice: 1
-
-Student added successfully!
-Name: Rahul
-Total Marks: 270
-Average: 90
-Grade: A
-
-
----
-
-## 🎯 Learning Outcomes
-
-- Python Functions
-- Parameters
-- Return Statements
-- Conditional Statements
-- Modular Programming
-- Menu-Driven Applications
+## Output
+- Add student details
+- View all students
+- Search student by name
+- Delete student by name
+- Display total, average, and grade
